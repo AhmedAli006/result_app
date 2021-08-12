@@ -1,0 +1,17 @@
+.box-inf{
+    width: 10vw;
+margin: 0 auto;
+       
+}
+.cont{
+display: flex;
+justify-content: center;
+flex-direction: column;
+    align-items: center;
+}
+.ent{
+    display: flex;
+justify-content: center;
+align-items: center;
+
+}
